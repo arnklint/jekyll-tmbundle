@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>. "$TM_PROJECT_DIRECTORY/_tasks/up"
+</string>
+	<key>input</key>
+	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>@J</string>
+	<key>name</key>
+	<string>deploy</string>
+	<key>output</key>
+	<string>discard</string>
+	<key>uuid</key>
+	<string>3C79E9C4-F519-4DF4-895F-EB7E0878BFAD</string>
+</dict>
+</plist>
