@@ -1,2 +1,11 @@
-This is a simple, yet powerful way to deploy your jekyll site using Textmate. 
+This is a super simple, yet powerful way to deploy your jekyll site using Textmate. 
+
+INSTALLATION
+
+git clone git://github.com/arnklint/jekyll-tmbundle.git
+
+Open the Jekyll.tmbundle 
+Put the _tasks directory in your local jekyll site´s root. 
+Modify the up shellscript (set the user credentials and server info)
+Press CMD + SHIFT + J in textmate when editing your jekyll site. Done!
 
